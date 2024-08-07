@@ -1,0 +1,17 @@
+{
+  "bannerNotification": {
+    "id": "id_1946e2dd2a13",
+    "title": "title_40373b65a950",
+    "text": "text_9a7cb19073cb",
+    "eventType": "eventType_e7f9b427d48c"
+  },
+  "communicationNotification": {
+    "message": "message_689eda2090f6"
+  },
+  "notifications": [
+    {
+      "eventType": "eventType_d15a435ac59a"
+    }
+  ],
+  "eventType": "eventType_c17c4476c060"
+}
